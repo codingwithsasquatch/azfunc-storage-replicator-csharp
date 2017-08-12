@@ -1,6 +1,10 @@
-# BlobTrigger - C<span>#</span>
+# Azure Function Storage Replicator - C<span>#</span>
 
-The `BlobTrigger` makes it incredibly easy to react to new Blobs inside of Azure Blob Storage. This sample demonstrates a simple use case of processing data from a given Blob using C#.
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+
+
+The `Storage Replicator` makes it incredibly easy to copy all changes to new Blobs inside of Azure Storage Account to another Azure Storage Acount. This sample demonstrates a simple use case of processing data from a given Blob using C#.
 
 ## How it works
 
