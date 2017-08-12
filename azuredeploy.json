@@ -114,7 +114,8 @@
                 ],
                 "properties": {
                     "RepoUrl": "[parameters('funcSourceCodeRepoURL')]",
-                    "branch": "[parameters('funcSourceCodeBranch')]"
+                    "branch": "[parameters('funcSourceCodeBranch')]",
+                    "IsManualIntegration": true
                 }
             }
         ]
