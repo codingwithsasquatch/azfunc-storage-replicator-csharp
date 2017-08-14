@@ -5,14 +5,14 @@
       "name": "inputBlob",
       "type": "blobTrigger",
       "direction": "in",
-      "path": "input/{name}",
-      "connection": "storageConnection"
+      "path": "%InputPath%/{name}",
+      "connection": "InputStorageConnection"
     },
     {
       "name": "outputBlob",
       "type": "blob",
-      "path": "csharpOutput/{name}",
-      "connection": "storageConnection",
+      "path": "%OutputPath%/{name}",
+      "connection": "OutputStorageConnection",
       "direction": "out"
     }
   ]

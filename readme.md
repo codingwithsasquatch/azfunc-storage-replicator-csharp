@@ -1,6 +1,6 @@
 # Azure Function Storage Replicator - C<span>#</span>
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.svg)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcodingwithsasquatch%2Fazfunc-storage-replicator-csharp%2Fmaster%2Fazuredeploy.json)
 
 
 
